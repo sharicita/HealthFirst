@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="appointment_confirmation" label="Appointment Confirmation" language="en" table="x_1527609_health_0_appointments">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>appointment_confirmation</element>
+            <help/>
+            <hint/>
+            <label>Appointment Confirmation</label>
+            <language>en</language>
+            <name>x_1527609_health_0_appointments</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>david.lupo</sys_created_by>
+            <sys_created_on>2024-09-13 03:18:42</sys_created_on>
+            <sys_id>e701e6e693a09a9088357a718bba107a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Appointment Confirmation</sys_name>
+            <sys_package display_value="Health First" source="x_1527609_health_0">29b195c09324121088357a718bba10cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Health First">29b195c09324121088357a718bba10cc</sys_scope>
+            <sys_update_name>sys_documentation_x_1527609_health_0_appointments_appointment_confirmation_en</sys_update_name>
+            <sys_updated_by>david.lupo</sys_updated_by>
+            <sys_updated_on>2024-09-13 03:18:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
