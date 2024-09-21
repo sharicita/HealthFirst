@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id display_value="Health First Users" name="Health First Users">c91e74d093ac121088357a718bba10d4</group_id>
+        <report_id display_value="Health First User Symptoms">a9bec0ce93e01e5088357a718bba109b</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>niko.durrett</sys_created_by>
+        <sys_created_on>2024-09-17 00:00:45</sys_created_on>
+        <sys_id>361a5a7393e8d65088357a718bba10a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a9bec0ce93e01e5088357a718bba109b</sys_name>
+        <sys_package display_value="Health First" source="x_1527609_health_0">29b195c09324121088357a718bba10cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health First">29b195c09324121088357a718bba10cc</sys_scope>
+        <sys_update_name>sys_report_users_groups_361a5a7393e8d65088357a718bba10a2</sys_update_name>
+        <sys_updated_by>niko.durrett</sys_updated_by>
+        <sys_updated_on>2024-09-17 00:00:45</sys_updated_on>
+        <user_id/>
+    </sys_report_users_groups>
+</record_update>
