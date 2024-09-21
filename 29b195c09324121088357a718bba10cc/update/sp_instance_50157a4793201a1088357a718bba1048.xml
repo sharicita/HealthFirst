@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">6145caba9368521088357a718bba10f9</sp_column>
+        <sp_widget display_value="Report">e41aa2d29f0222008252baac757fcfce</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>shari.lemonnier</sys_created_by>
+        <sys_created_on>2024-09-14 18:03:05</sys_created_on>
+        <sys_id>50157a4793201a1088357a718bba1048</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Health First" source="x_1527609_health_0">29b195c09324121088357a718bba10cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health First">29b195c09324121088357a718bba10cc</sys_scope>
+        <sys_update_name>sp_instance_50157a4793201a1088357a718bba1048</sys_update_name>
+        <sys_updated_by>shari.lemonnier</sys_updated_by>
+        <sys_updated_on>2024-09-15 02:53:48</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"report_id": {
+		"value": "9a96fe4393601a1088357a718bba10b4",
+		"displayValue": "My Symptom History"
+	},
+	"show_title": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=50157a4793201a1088357a718bba1048"/>
+</record_update>
