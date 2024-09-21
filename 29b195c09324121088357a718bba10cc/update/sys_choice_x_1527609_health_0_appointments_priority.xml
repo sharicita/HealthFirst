@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="priority" table="x_1527609_health_0_appointments" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <name>x_1527609_health_0_appointments</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>david.lupo</sys_created_by>
+            <sys_created_on>2024-09-10 03:31:51</sys_created_on>
+            <sys_id>be478f6593a8565088357a718bba10b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>priority</sys_name>
+            <sys_package display_value="Health First" source="x_1527609_health_0">29b195c09324121088357a718bba10cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Health First">29b195c09324121088357a718bba10cc</sys_scope>
+            <sys_update_name>sys_choice_x_1527609_health_0_appointments_priority</sys_update_name>
+            <sys_updated_by>david.lupo</sys_updated_by>
+            <sys_updated_on>2024-09-10 03:31:51</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Critical</label>
+            <language>en</language>
+            <name>x_1527609_health_0_appointments</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>david.lupo</sys_created_by>
+            <sys_created_on>2024-09-10 03:31:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a478f6593a8565088357a718bba10b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.lupo</sys_updated_by>
+            <sys_updated_on>2024-09-10 03:31:51</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - High</label>
+            <language>en</language>
+            <name>x_1527609_health_0_appointments</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>david.lupo</sys_created_by>
+            <sys_created_on>2024-09-10 03:31:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36478f6593a8565088357a718bba10d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.lupo</sys_updated_by>
+            <sys_updated_on>2024-09-10 03:31:51</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Moderate</label>
+            <language>en</language>
+            <name>x_1527609_health_0_appointments</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>david.lupo</sys_created_by>
+            <sys_created_on>2024-09-10 03:31:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e478f6593a8565088357a718bba10dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.lupo</sys_updated_by>
+            <sys_updated_on>2024-09-10 03:31:51</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 - Low</label>
+            <language>en</language>
+            <name>x_1527609_health_0_appointments</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>david.lupo</sys_created_by>
+            <sys_created_on>2024-09-10 03:31:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e478f6593a8565088357a718bba10ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.lupo</sys_updated_by>
+            <sys_updated_on>2024-09-10 03:31:51</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5 - Planning</label>
+            <language>en</language>
+            <name>x_1527609_health_0_appointments</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>david.lupo</sys_created_by>
+            <sys_created_on>2024-09-10 03:31:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76478f6593a8565088357a718bba10f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.lupo</sys_updated_by>
+            <sys_updated_on>2024-09-10 03:31:51</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
