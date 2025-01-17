@@ -2,7 +2,7 @@
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2024-09-06 01:42:29</change_date>
         <changed_by display_value="Niko Durrett">bebc48bb93d4121088357a718bba10c2</changed_by>
-        <content display_value="Grant full Creator Studio access to users">b1665ac4074c4210909ac41f0ad300f0</content>
+        <content/>
         <related_change_log_entry/>
         <related_task_entry/>
         <sys_class_name>gsw_change_log</sys_class_name>

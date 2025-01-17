@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6861aff4936c961088357a718bba1092" label="Symptoms" max_length="40" name="x_1527609_health_0_symptoms" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="Description" max_length="8000" name="description" type="html"/>
+    </element>
+</database>

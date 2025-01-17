@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c6738d5893ec121088357a718bba10c5" label="Family Relationship" max_length="40" name="x_1527609_health_0_family_relationship" type="collection">
+        <element choice="1" default="child" function_definition="child" label="Relationship Type" mandatory="true" max_length="40" name="relationship_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Child" sequence="0" value="child"/>
+                <element inactive_on_update="false" label="Spouse" sequence="1" value="spouse"/>
+                <element inactive_on_update="false" label="Guardian" sequence="2" value="guardian"/>
+            </choice>
+        </element>
+        <element label="Person" mandatory="true" max_length="32" name="person" reference="sys_user" reference_floats="true" type="reference"/>
+        <element label="Related Person" mandatory="true" max_length="32" name="related_person" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="person"/>
+        </index>
+        <index name="index2">
+            <element name="related_person"/>
+        </index>
+    </element>
+</database>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
     <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <access_control_type>user_roles</access_control_type>
         <active>true</active>
         <available_offline>true</available_offline>
         <header_button display_value="Redirect to Selected Employee Profile">4af96871530c01106d79ddeeff7b129a</header_button>

@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>david.lupo</sys_created_by>
         <sys_created_on>2024-09-13 03:18:42</sys_created_on>
-        <sys_id>a30166e693a09a9088357a718bba1074</sys_id>
         <sys_name>Appointment Confirmation</sys_name>
         <sys_package display_value="Health First" source="x_1527609_health_0">29b195c09324121088357a718bba10cc</sys_package>
         <sys_policy/>
