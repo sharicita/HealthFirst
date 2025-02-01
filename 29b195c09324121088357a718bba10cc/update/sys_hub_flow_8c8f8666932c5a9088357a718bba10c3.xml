@@ -59,6 +59,7 @@
         <on_delete>false</on_delete>
         <on_insert>false</on_insert>
         <on_update>true</on_update>
+        <published_version/>
         <run_flow_in>background</run_flow_in>
         <run_on_extended>false</run_on_extended>
         <run_when_setting>both</run_when_setting>
@@ -76,6 +77,7 @@
         <sys_updated_by>david.lupo</sys_updated_by>
         <sys_updated_on>2024-09-17 04:16:17</sys_updated_on>
         <table>x_1527609_health_0_appointments</table>
+        <trigger_definition/>
     </sys_flow_record_trigger>
     <sys_trigger_runner_mapping action="INSERT_OR_UPDATE">
         <active>true</active>
@@ -1585,7 +1587,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_variable>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_8c8f8666932c5a9088357a718bba10c3^sys_idNOT IN12dfc26e932c5a9088357a718bba103a,1adf8ee2932c5a9088357a718bba1079,dadfc26e932c5a9088357a718bba1035"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>table_name</element>
         <help/>
@@ -1656,7 +1657,6 @@
         <url_target/>
     </sys_documentation>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_8c8f8666932c5a9088357a718bba10c3"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_8c8f8666932c5a9088357a718bba10c3"/>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_8c8f8666932c5a9088357a718bba10c3"/>
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -3183,7 +3183,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_variable>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_2339e62293a49a9088357a718bba1014^sys_idNOT IN3339e62293a49a9088357a718bba1039,3339e62293a49a9088357a718bba108b,f339e62293a49a9088357a718bba1068"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>current</element>
         <help/>
@@ -3254,7 +3253,6 @@
         <url_target/>
     </sys_documentation>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_2339e62293a49a9088357a718bba1014"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_2339e62293a49a9088357a718bba1014"/>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_2339e62293a49a9088357a718bba1014"/>
     <sys_hub_flow action="UPDATE">
         <sys_id>8c8f8666932c5a9088357a718bba10c3</sys_id>

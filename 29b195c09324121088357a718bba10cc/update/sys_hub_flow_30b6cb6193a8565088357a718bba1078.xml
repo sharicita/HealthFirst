@@ -58,6 +58,7 @@
         <on_delete>false</on_delete>
         <on_insert>true</on_insert>
         <on_update>false</on_update>
+        <published_version/>
         <run_flow_in>background</run_flow_in>
         <run_on_extended>false</run_on_extended>
         <run_when_setting>both</run_when_setting>
@@ -75,6 +76,7 @@
         <sys_updated_by>shari.lemonnier</sys_updated_by>
         <sys_updated_on>2024-09-12 23:57:14</sys_updated_on>
         <table>x_1527609_health_0_health_first</table>
+        <trigger_definition/>
     </sys_flow_record_trigger>
     <sys_trigger_runner_mapping action="INSERT_OR_UPDATE">
         <active>true</active>
@@ -1375,7 +1377,6 @@
         <ui_id>53794aa1-4f72-4a18-aa9a-5d4cc54b2465</ui_id>
     </sys_hub_pill_compound>
     <sys_hub_flow_variable action="delete_multiple" query="model=30b6cb6193a8565088357a718bba1078"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_30b6cb6193a8565088357a718bba1078^sys_idNOT IN12170b2593a8565088357a718bba1052,9e170b2593a8565088357a718bba104d"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>table_name</element>
         <help/>
@@ -1423,7 +1424,6 @@
         <url_target/>
     </sys_documentation>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_30b6cb6193a8565088357a718bba1078"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_30b6cb6193a8565088357a718bba1078"/>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_30b6cb6193a8565088357a718bba1078"/>
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -2741,7 +2741,6 @@
         <ui_id>66e6c3bf-9435-46d1-b204-007360d2fe89</ui_id>
     </sys_hub_pill_compound>
     <sys_hub_flow_variable action="delete_multiple" query="model=be18af8e93ec129088357a718bba1064"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_be18af8e93ec129088357a718bba1064^sys_idNOT IN3618af8e93ec129088357a718bba1090,3a18af8e93ec129088357a718bba10bd"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>current</element>
         <help/>
@@ -2789,7 +2788,6 @@
         <url_target/>
     </sys_documentation>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_be18af8e93ec129088357a718bba1064"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_be18af8e93ec129088357a718bba1064"/>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_be18af8e93ec129088357a718bba1064"/>
     <sys_hub_flow action="UPDATE">
         <sys_id>30b6cb6193a8565088357a718bba1078</sys_id>
