@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="work_notes" label="Impression/SOAP Notes" language="en" table="x_1527609_health_0_appointments">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <help/>
+            <hint/>
+            <label>Impression/SOAP Notes</label>
+            <language>en</language>
+            <name>x_1527609_health_0_appointments</name>
+            <plural>Work notes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>david.lupo</sys_created_by>
+            <sys_created_on>2024-09-10 03:40:17</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Impression/SOAP Notes</sys_name>
+            <sys_package display_value="Health First" source="x_1527609_health_0">29b195c09324121088357a718bba10cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Health First">29b195c09324121088357a718bba10cc</sys_scope>
+            <sys_update_name>sys_documentation_x_1527609_health_0_appointments_work_notes_en</sys_update_name>
+            <sys_updated_by>david.lupo</sys_updated_by>
+            <sys_updated_on>2024-09-10 03:40:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="HF Appointments DI">ee6e191793a8da1088357a718bba1093</data_item>
+        <interleaved_field>sys_updated_on</interleaved_field>
+        <name>HF Appointments Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>shari.lemonnier</sys_created_by>
+        <sys_created_on>2024-09-15 06:22:59</sys_created_on>
+        <sys_id>a66e5d1b93a8da1088357a718bba10df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HF Appointments Item Stream</sys_name>
+        <sys_package display_value="Health First" source="x_1527609_health_0">29b195c09324121088357a718bba10cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health First">29b195c09324121088357a718bba10cc</sys_scope>
+        <sys_update_name>sys_sg_item_stream_a66e5d1b93a8da1088357a718bba10df</sys_update_name>
+        <sys_updated_by>shari.lemonnier</sys_updated_by>
+        <sys_updated_on>2024-09-15 06:22:59</sys_updated_on>
+        <table>task</table>
+    </sys_sg_item_stream>
+</record_update>

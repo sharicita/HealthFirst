@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Web Service Import Set Tables" source="com.snc.web_service_import_set_tables">f83f7f2af8b2021008dd9cfea425acad</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 20:48:21</sys_created_on>
+        <sys_id>80076985834212106e0c5750ceaad326</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Health First" source="x_1527609_health_0">29b195c09324121088357a718bba10cc</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 20:48:21</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

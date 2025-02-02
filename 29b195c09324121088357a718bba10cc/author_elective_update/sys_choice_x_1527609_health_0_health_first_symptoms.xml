@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="symptoms" table="x_1527609_health_0_health_first" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>symptoms</element>
+            <name>x_1527609_health_0_health_first</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>shari.lemonnier</sys_created_by>
+            <sys_created_on>2024-09-06 02:11:41</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>symptoms</sys_name>
+            <sys_package display_value="Health First" source="x_1527609_health_0">29b195c09324121088357a718bba10cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Health First">29b195c09324121088357a718bba10cc</sys_scope>
+            <sys_update_name>sys_choice_x_1527609_health_0_health_first_symptoms</sys_update_name>
+            <sys_updated_by>shari.lemonnier</sys_updated_by>
+            <sys_updated_on>2024-09-06 02:11:41</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>symptoms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fever</label>
+            <language>en</language>
+            <name>x_1527609_health_0_health_first</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>shari.lemonnier</sys_created_by>
+            <sys_created_on>2024-09-06 02:11:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shari.lemonnier</sys_updated_by>
+            <sys_updated_on>2024-09-06 02:11:41</sys_updated_on>
+            <value>fever</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>symptoms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cough</label>
+            <language>en</language>
+            <name>x_1527609_health_0_health_first</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>shari.lemonnier</sys_created_by>
+            <sys_created_on>2024-09-06 02:11:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shari.lemonnier</sys_updated_by>
+            <sys_updated_on>2024-09-06 02:11:41</sys_updated_on>
+            <value>cough</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>symptoms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Headache</label>
+            <language>en</language>
+            <name>x_1527609_health_0_health_first</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>shari.lemonnier</sys_created_by>
+            <sys_created_on>2024-09-06 02:11:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shari.lemonnier</sys_updated_by>
+            <sys_updated_on>2024-09-06 02:11:41</sys_updated_on>
+            <value>headache</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>symptoms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Congested</label>
+            <language>en</language>
+            <name>x_1527609_health_0_health_first</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>shari.lemonnier</sys_created_by>
+            <sys_created_on>2024-09-06 02:11:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shari.lemonnier</sys_updated_by>
+            <sys_updated_on>2024-09-06 02:11:41</sys_updated_on>
+            <value>congested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>symptoms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sore Throat</label>
+            <language>en</language>
+            <name>x_1527609_health_0_health_first</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>shari.lemonnier</sys_created_by>
+            <sys_created_on>2024-09-06 02:11:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shari.lemonnier</sys_updated_by>
+            <sys_updated_on>2024-09-06 02:11:41</sys_updated_on>
+            <value>sore_throat</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>symptoms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vomiting</label>
+            <language>en</language>
+            <name>x_1527609_health_0_health_first</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>shari.lemonnier</sys_created_by>
+            <sys_created_on>2024-09-06 02:11:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shari.lemonnier</sys_updated_by>
+            <sys_updated_on>2024-09-06 02:11:41</sys_updated_on>
+            <value>vomiting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>symptoms</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Diarrhea</label>
+            <language>en</language>
+            <name>x_1527609_health_0_health_first</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>shari.lemonnier</sys_created_by>
+            <sys_created_on>2024-09-06 02:11:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shari.lemonnier</sys_updated_by>
+            <sys_updated_on>2024-09-06 02:11:41</sys_updated_on>
+            <value>diarrhea</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

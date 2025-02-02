@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_1527609_health_0_appointments">requested_forSAMEASguardian<item endquery="false" field="requested_for" goto="false" newquery="false" operator="SAMEAS" or="false" value="guardian"/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {}]]></script_false>
+        <script_true><![CDATA[function onCondition() {}]]></script_true>
+        <set_values/>
+        <short_description>Hide the guardian field if the patient is the same person as the guardian.</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>shari.lemonnier</sys_created_by>
+        <sys_created_on>2024-09-11 18:54:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>99f3a7ce93ac129088357a718bba1000</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hide the guardian field if the patient is the same person as the guardian.</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Health First" source="x_1527609_health_0">29b195c09324121088357a718bba10cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health First">29b195c09324121088357a718bba10cc</sys_scope>
+        <sys_update_name>sys_ui_policy_99f3a7ce93ac129088357a718bba1000</sys_update_name>
+        <sys_updated_by>shari.lemonnier</sys_updated_by>
+        <sys_updated_on>2024-09-11 18:54:03</sys_updated_on>
+        <table>x_1527609_health_0_appointments</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>
