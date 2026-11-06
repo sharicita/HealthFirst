@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="fb1ff32af8b2021008dd9cfea425ac9f" label="Approval" max_length="40" name="sysapproval_approver" type="collection">
+        <element label="Appointment Date/Time" max_length="40" name="x_1527609_health_0_appointment_date_time" type="string"/>
+        <element label="Guardian" max_length="40" name="x_1527609_health_0_guardian" type="string"/>
+        <element label="Patient" max_length="40" name="x_1527609_health_0_patien" reference="x_1527609_health_0_appointments" type="reference"/>
+    </element>
+</database>

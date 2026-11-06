@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>guardian</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>shari.lemonnier</sys_created_by>
+        <sys_created_on>2024-09-11 18:54:03</sys_created_on>
+        <sys_id>d1f3a7ce93ac129088357a718bba1005</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>guardian</sys_name>
+        <sys_package display_value="Health First" source="x_1527609_health_0">29b195c09324121088357a718bba10cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health First">29b195c09324121088357a718bba10cc</sys_scope>
+        <sys_update_name>sys_ui_policy_action_d1f3a7ce93ac129088357a718bba1005</sys_update_name>
+        <sys_updated_by>shari.lemonnier</sys_updated_by>
+        <sys_updated_on>2024-09-11 18:54:03</sys_updated_on>
+        <table>x_1527609_health_0_appointments</table>
+        <ui_policy display_value="Hide the guardian field if the patient is the same person as the guardian.">99f3a7ce93ac129088357a718bba1000</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=d1f3a7ce93ac129088357a718bba1005"/>
+</record_update>

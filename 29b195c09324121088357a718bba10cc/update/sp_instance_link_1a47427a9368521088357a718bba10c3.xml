@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph>plus-square</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Track your symptoms &amp; request a healthcare appointment online or in office</short_description>
+        <size>md</size>
+        <sp_column display_value="1">757ea49f93a89a1088357a718bba104e</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>shari.lemonnier</sys_created_by>
+        <sys_created_on>2024-09-13 20:04:36</sys_created_on>
+        <sys_id>1a47427a9368521088357a718bba10c3</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Add New Symptoms</sys_name>
+        <sys_package display_value="Health First" source="x_1527609_health_0">29b195c09324121088357a718bba10cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health First">29b195c09324121088357a718bba10cc</sys_scope>
+        <sys_update_name>sp_instance_link_1a47427a9368521088357a718bba10c3</sys_update_name>
+        <sys_updated_by>shari.lemonnier</sys_updated_by>
+        <sys_updated_on>2024-09-15 02:53:42</sys_updated_on>
+        <title>Add New Symptoms</title>
+        <type>url</type>
+        <url>?id=sc_cat_item&amp;sys_id=1e65ba789320961088357a718bba1008</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=1a47427a9368521088357a718bba10c3"/>
+</record_update>

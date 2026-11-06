@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Health First Coordinator Dashboard">5169b6bf93a41a5088357a718bba1003</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>maria.ayub</sys_created_by>
+        <sys_created_on>2024-09-17 02:17:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>da79bebf93a41a5088357a718bba10c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5169b6bf93a41a5088357a718bba1003</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Health First" source="x_1527609_health_0">29b195c09324121088357a718bba10cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health First">29b195c09324121088357a718bba10cc</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_da79bebf93a41a5088357a718bba10c3</sys_update_name>
+        <sys_updated_by>maria.ayub</sys_updated_by>
+        <sys_updated_on>2024-09-17 02:17:47</sys_updated_on>
+        <tab display_value="New Tab 1">0279bebf93a41a5088357a718bba1094</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

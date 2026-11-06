@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header">
+    <sys_sg_applet_launcher_header action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_sg_applet_launcher_header</sys_class_name>
+        <sys_created_by>shari.lemonnier</sys_created_by>
+        <sys_created_on>2024-09-15 05:17:59</sys_created_on>
+        <sys_id>e68fc9df93e0da1088357a718bba10ac</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Hello {​{baeaee347330330018eea18d4ef6a7a8}}</sys_name>
+        <sys_package display_value="Health First" source="x_1527609_health_0">29b195c09324121088357a718bba10cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health First">29b195c09324121088357a718bba10cc</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_header_e68fc9df93e0da1088357a718bba10ac</sys_update_name>
+        <sys_updated_by>shari.lemonnier</sys_updated_by>
+        <sys_updated_on>2024-09-15 05:57:47</sys_updated_on>
+        <text>Hello {​{baeaee347330330018eea18d4ef6a7a8}}</text>
+        <variables>928fc9df93e0da1088357a718bba10a6</variables>
+    </sys_sg_applet_launcher_header>
+</record_update>

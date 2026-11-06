@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cf3ee3fc9320d61088357a718bba1075" label="Symptom History" max_length="40" name="x_1527609_health_0_symptom_history" type="collection">
+        <element label="Health First Request" max_length="32" name="health_first_request" read_only="true" reference="x_1527609_health_0_health_first" type="reference"/>
+        <element label="Symptom Start" max_length="40" name="symptom_start" type="glide_date_time"/>
+        <element label="Symptom End" max_length="40" name="symptom_end" type="glide_date_time"/>
+        <element choice="1" label="Severity" max_length="40" name="severity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="2 - Moderate" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="1 - Critical" sequence="2" value="1"/>
+                <element inactive_on_update="false" label="3 - Mild" sequence="0" value="3"/>
+            </choice>
+        </element>
+        <element label="Patient" mandatory="true" max_length="32" name="person" reference="sys_user" type="reference"/>
+        <element label="Symptom" mandatory="true" max_length="32" name="symptom" reference="x_1527609_health_0_symptoms" type="reference"/>
+        <element label="Duration" max_length="40" name="duration" type="glide_duration"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Opened by" max_length="32" name="opened_by" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="health_first_request"/>
+        </index>
+        <index name="index2">
+            <element name="opened_by"/>
+        </index>
+        <index name="index3">
+            <element name="person"/>
+        </index>
+        <index name="index4">
+            <element name="symptom"/>
+        </index>
+    </element>
+</database>

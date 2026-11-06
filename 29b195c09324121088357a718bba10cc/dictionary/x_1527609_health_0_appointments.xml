@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="55b8d29093e0921088357a718bba10e4" extends="task" label="Appointments" max_length="40" name="x_1527609_health_0_appointments" type="collection">
+        <element label="Appointment Date/Time" max_length="40" name="appointment_date_time" type="calendar_date_time"/>
+        <element label="Guardian" max_length="32" name="guardian" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" dependent="requested_for" dependent_on_field="requested_for" label="Patient" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference" use_dependent_field="true"/>
+        <element choice="1" label="Appointment Type" max_length="40" name="appointment_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Telehealth" sequence="0" value="Telehealth"/>
+                <element inactive_on_update="false" label="In Office Visit" sequence="1" value="In Office Visit"/>
+            </choice>
+        </element>
+        <element choice="3" label="Appointment Confirmation" max_length="40" name="appointment_confirmation" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Denied" sequence="1" value="Denied"/>
+                <element inactive_on_update="false" label="Confirmed" sequence="0" value="Confirmed"/>
+            </choice>
+        </element>
+        <element label="Patient Phone" max_length="32" name="patient_phone" reference="sys_user" type="reference"/>
+        <element active="false" choice="1" label="Severity of Symptoms" max_length="40" name="severity_of_symptoms" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Critical" sequence="2" value="Critical"/>
+                <element inactive_on_update="false" label="Mild" sequence="0" value="Mild"/>
+                <element inactive_on_update="false" label="Moderate" sequence="1" value="Moderate"/>
+            </choice>
+        </element>
+    </element>
+</database>
